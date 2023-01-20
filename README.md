@@ -1,5 +1,5 @@
 ![logo](https://github.com/AniketRupwate/AniketRupwate/blob/main/shutterstock_1449924503.png)
-<h1 align="center">Hi 👋, I'm Aniket Rupwate</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="40px">, I'm Aniket Rupwate</h1>
 <h3 align="center">A passionate frontenEfficient and User-Friendly Front-End Development for Modern Web Applications. developer from India</h3>
 
 <img align="right" alt="coding" width="390" height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
