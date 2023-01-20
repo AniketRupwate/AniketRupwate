@@ -1,4 +1,4 @@
-![logo](https://github.com/AniketRupwate/AniketRupwate/blob/main/shutterstock_1449924503.png)
+![logo](https://github.com/AniketRupwate/AniketRupwate/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="40px">, I'm Aniket Rupwate</h1>
 <h3 align="center">A passionate frontenEfficient and User-Friendly Front-End Development for Modern Web Applications. developer from India</h3>
 
