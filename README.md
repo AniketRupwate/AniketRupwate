@@ -1,7 +1,7 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfaGi8TNA6PjJ8FVGynZnGFLzL1vOwXNzDF1Zgffa6RSlQXUvKvQnwchc7QtZhh8XrQo&usqp=CAU](https://toptechnologypost.com/wp-content/uploads/2023/01/shutterstock_1449924503.png))](https://rishavchanda.io)
+![Alt Text]([image_url](https://toptechnologypost.com/wp-content/uploads/2023/01/shutterstock_1449924503.png))
 <h1 align="center">Hi 👋, I'm Aniket Rupwate</h1>
 <h3 align="center">A passionate frontenEfficient and User-Friendly Front-End Development for Modern Web Applications. developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfaGi8TNA6PjJ8FVGynZnGFLzL1vOwXNzDF1Zgffa6RSlQXUvKvQnwchc7QtZhh8XrQo&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketrupwate&label=Profile%20views&color=0e75b6&style=flat" alt="aniketrupwate" /> </p>
 
