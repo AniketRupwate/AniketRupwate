@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/AniketRupwate/AniketRupwate/blob/main/shutterstock_1449924503.png)
 <h1 align="center">Hi 👋, I'm Aniket Rupwate</h1>
 <h3 align="center">A passionate frontenEfficient and User-Friendly Front-End Development for Modern Web Applications. developer from India</h3>
 
