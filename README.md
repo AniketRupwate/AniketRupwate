@@ -1,8 +1,8 @@
-
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aniket Rupwate</h1>
 <h3 align="center">A passionate frontenEfficient and User-Friendly Front-End Development for Modern Web Applications. developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966](https://camo.githubusercontent.com/5de8f71761f71b598661b712e3f755a08b356f357bc9c222c9632714b92dbad7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a6e57515f55354e4b45664e6547435466685f322d4d772e676966)">
+<img align="right" alt="coding" width="390" height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketrupwate&label=Profile%20views&color=0e75b6&style=flat" alt="aniketrupwate" /> </p>
 
