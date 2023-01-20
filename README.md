@@ -6,21 +6,16 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/aniket-rupwate/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  
-<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-  
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
-
+<a href="https://twitter.com/8bithemant"><img height="30" src="https://github.com/AniketRupwate/AniketRupwate/blob/main/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/spotify.png"></a>&nbsp;&nbsp;
  </p>
 
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Aniket Rupwate | 💻 Front End Developer | 🛸 India , <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Aniket Rupwate | 💻 Front End Developer | 🛸 India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-<h3 align="center">A passionate frontenEfficient and User-Friendly Front-End Development for Modern Web Applications. developer from India</h3>
+<h3 align="center">A passionate Front-end developer with a strong understanding of HTML, CSS, and JavaScript. Proven ability to create visually appealing and user-friendly websites and applications.</h3>
 
 <img align="right" alt="coding" width="390" height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
