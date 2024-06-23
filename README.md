@@ -25,8 +25,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://tiny-fudge-641e36.netlify.app/](https://tiny-fudge-641e36.netlify.app/)
-
 - 📫 How to reach me **aniketrupwate111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
